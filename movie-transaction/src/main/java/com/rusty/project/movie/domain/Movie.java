@@ -17,4 +17,5 @@ public class Movie {
 		this.runningTime = runningTime;
 		this.fee = fee;
 	}
+
 }
