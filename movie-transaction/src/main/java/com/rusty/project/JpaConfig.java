@@ -41,5 +41,7 @@ public class JpaConfig {
                     DiscountCondition.ConditionType.PERIOD_CONDITION, DayOfWeek.WEDNESDAY,
                     LocalTime.of(9, 0), LocalTime.of(11, 30), null));
         };
+
+
     }
 }

@@ -3,7 +3,7 @@ package com.rusty.project.movie.domain;
 import lombok.*;
 
 @NoArgsConstructor(access = AccessLevel.PROTECTED) @AllArgsConstructor
-@Getter @Setter
+@Data
 public class Movie {
 	private Long id;
 	private Long policyId;
